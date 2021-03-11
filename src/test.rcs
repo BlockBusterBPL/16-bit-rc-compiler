@@ -1,0 +1,17 @@
+DRL $1 $2
+DRL $2 $2
+DRL $3 $1
+PSE $0 $0
+JMP $FF $0
+NOP
+RTR $1 $1
+DRL $1 $1
+DRH $1 $1
+PSE
+ROP $1 $1
+JPZ $FF
+JNZ $FF
+JPC $FF
+JNC $FF
+JMP $FF
+HLT

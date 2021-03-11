@@ -1,0 +1,16 @@
+HLT
+RTR $0 $6
+RTR $0 $3
+RTR $0 $1
+RTR $0 $2
+RTR $0 $8
+RTR $0 $9
+RTR $0 $A
+RTR $0 $B
+NOP 0 0
+NOP 0 0
+NOP 0 0
+NOP 0 0
+NOP 0 0
+NOP 0 0
+JMP $0 0
